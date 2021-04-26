@@ -457,6 +457,7 @@ class MyWindow(QMainWindow):
             event.ignore()
 
     def dropEvent(self, event):
+        print("开始进入拖放事件")
         # 拖动进入开始计算
         event.accept()
         filename = event.mimeData().urls()[0].path()[1:]
