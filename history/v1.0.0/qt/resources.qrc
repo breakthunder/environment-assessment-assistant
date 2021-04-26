@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="resources">
+    <file>resources/fomular.png</file>
+    <file>resources/clinet.png</file>
+  </qresource>
+</RCC>
