@@ -1,0 +1,1 @@
+nuitka --standalone --mingw64 --show-progress --show-memory --plugin-enable=qt-plugins --include-qt-plugins=sensible,styles --windows-disable-console --windows-icon-from-ico=1.ico --nofollow-imports --follow-import-to=eaa --output-dir=o start.py
