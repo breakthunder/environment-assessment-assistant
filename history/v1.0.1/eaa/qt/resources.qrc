@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="resources">
+    <file>resources/min.png</file>
+    <file>resources/kri.png</file>
+    <file>resources/about.png</file>
+    <file>resources/ad.png</file>
+    <file>resources/at.png</file>
+    <file>resources/ch.png</file>
+    <file>resources/nat.png</file>
+    <file>resources/max.png</file>
+    <file>resources/language.png</file>
+    <file>resources/setting.png</file>
+    <file>resources/other.png</file>
+    <file>resources/close.png</file>
+    <file>resources/clinet.png</file>
+  </qresource>
+</RCC>
